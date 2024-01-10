@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 15
+      "likes": 20
     },
     {
       "id": 2,
@@ -22,7 +22,7 @@
       "id": 4,
       "name": "Slinky Dog",
       "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
-      "likes": 4
+      "likes": 6
     },
     {
       "id": 5,
@@ -51,14 +51,26 @@
     {
       "name": "Mr. Angry Cat",
       "image": "https://i.pinimg.com/originals/56/a6/14/56a614261d423da1825452363174c685.gif",
-      "likes": 2,
+      "likes": 4,
       "id": 9
     },
     {
       "name": "Sir Cute ",
       "image": "https://i.pinimg.com/originals/20/2f/51/202f515cfaceb0a5d6193117ea844205.gif",
-      "likes": 5,
+      "likes": 6,
       "id": 10
+    },
+    {
+      "name": "Toy Boy",
+      "image": "https://media1.giphy.com/media/2rAyNIV0crTazswwcB/giphy.gif",
+      "likes": 1,
+      "id": 11
+    },
+    {
+      "name": "Russian Doll",
+      "image": "https://media3.giphy.com/media/jp9IXbifLKvTp1HVDb/giphy.gif?cid=6c09b95266dgufxqb24ld9qdd9lycoswjmma2nd7h80rrpaa&ep=v1_gifs_search&rid=giphy.gif&ct=g",
+      "likes": 3,
+      "id": 12
     }
   ]
 }

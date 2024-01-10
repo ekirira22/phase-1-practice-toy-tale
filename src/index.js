@@ -1,4 +1,5 @@
 let addToy = false;
+/******************* MAIN EVENT LISTENER - ENSURES DOM CONTENT IS LOADED ***************** */
 document.addEventListener("DOMContentLoaded", () => {
   const addBtn = document.querySelector("#new-toy-btn");
   const toyFormContainer = document.querySelector(".container");
@@ -52,7 +53,6 @@ function fetchAndDisplayData(){
 
           //Attach an event listener to each like button of the toy
         card.querySelector('#toyid').addEventListener('click', e => {
-          
           e.preventDefault()
           toy.likes += 1
           card.querySelector('.like-count').textContent = toy.likes
